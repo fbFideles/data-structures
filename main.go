@@ -1,6 +1,6 @@
 package main
 
-import "github.com/fbFideles/data-structures/list"
+import "github.com/data-structures/list"
 
 func main() {
 	l := list.NewInt64List()
