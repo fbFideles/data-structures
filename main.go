@@ -1,6 +1,6 @@
 package main
 
-import "github.com/marcelobezer/data-structures/list"
+import "github.com/fbFideles/data-structures/list"
 
 func main() {
 	l := list.NewInt64List()
